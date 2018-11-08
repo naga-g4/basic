@@ -38,3 +38,7 @@ div {
 .overFlow {
     overflow: hidden;
 }
+
+.displayInLine {
+    display: inline;
+}

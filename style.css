@@ -42,3 +42,7 @@ div {
 .displayInLine {
     display: inline;
 }
+
+.floatRight {
+    float: right;
+}

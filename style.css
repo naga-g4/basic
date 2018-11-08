@@ -1,0 +1,16 @@
+#wrapper {
+    background-color: darkgray;
+    width: 960px;
+}
+
+#top {
+    background-color: sandybrown;
+}
+
+div {
+    display: block;
+}
+
+.floatLeft {
+    float: left;
+}

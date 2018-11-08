@@ -54,3 +54,13 @@ div {
 #menu {
     text-align: right;
 }
+
+.row {
+    background-color: burlywood;
+}
+
+.col {
+    display: inline-block;
+    width: 15px;
+
+}

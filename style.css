@@ -56,11 +56,12 @@ div {
 }
 
 .row {
-    background-color: burlywood;
+
 }
 
 .col {
+    background-color: burlywood;
     display: inline-block;
-    width: 15px;
-
+    padding: 20px;
+    margin: 5px;
 }

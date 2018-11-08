@@ -34,3 +34,7 @@ div {
 .clearFix {
     clear: both;
 }
+
+.overFlow {
+    overflow: hidden;
+}

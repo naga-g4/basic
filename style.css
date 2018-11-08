@@ -9,7 +9,6 @@
 
 #title {
     text-align: center;
-    width: 300px;
 }
 
 div {
@@ -51,6 +50,7 @@ div {
     float: right;
 }
 
-#top {
-    height: 50px;
+
+#menu {
+    background-color: cyan;
 }

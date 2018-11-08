@@ -61,7 +61,7 @@ div {
 
 .col {
     background-color: burlywood;
-
+    width: 31%;
     padding: 20px;
-    margin: 5px;
+    margin: 1%;
 }

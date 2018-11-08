@@ -46,3 +46,7 @@ div {
 .floatRight {
     float: right;
 }
+
+#top {
+    height: 50px;
+}

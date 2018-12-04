@@ -55,9 +55,6 @@ div {
     text-align: right;
 }
 
-.row {
-
-}
 
 .col {
     background-color: burlywood;
@@ -71,5 +68,5 @@ div {
     width: 80%;
     padding: 20px;
     margin: 1%;
-    height: auto;
+
 }

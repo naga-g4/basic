@@ -41,10 +41,6 @@ div {
     width: 565px;
 }
 
-#sidebar {
-
-}
-
 .clearFix {
     clear: both;
 }
@@ -64,6 +60,7 @@ div {
 
 #menu {
     text-align: right;
+    line-height: 1.5em;
 }
 
 

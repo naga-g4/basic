@@ -1,6 +1,7 @@
 #wrapper {
     background-color: darkgray;
     width: 960px;
+
 }
 
 #top {
@@ -69,5 +70,6 @@ div {
     width: 900px;
     padding: 20px;
     margin: 1%;
+    background-image: ;
 
 }

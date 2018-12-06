@@ -45,7 +45,6 @@ div {
 
 .displayInLine {
     display: inline;
-    text-align: center;
 }
 
 .floatRight {
@@ -55,6 +54,7 @@ div {
 
 #menu {
     text-align: right;
+    padding-bottom: 15px;
 }
 
 

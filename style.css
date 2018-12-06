@@ -82,3 +82,7 @@ div {
     height: 545px;
     width: 100%;
 }
+
+.colHeading {
+    text-align: center;
+}

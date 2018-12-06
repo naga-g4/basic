@@ -76,3 +76,7 @@ div {
     margin: 1%;
     height: 545px;
 }
+
+.image {
+    position: absolute;
+}

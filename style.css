@@ -67,7 +67,7 @@ div {
 .col {
     background-color: burlywood;
     width: 420px;
-    padding: 20px;
+    padding: auto;
     margin: 1%;
 }
 
@@ -87,4 +87,10 @@ div {
 
 .colHeading {
     text-align: center;
+}
+
+
+.row {
+    padding-left: 20px;
+    padding-right: 20px;
 }

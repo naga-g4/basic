@@ -78,6 +78,6 @@ div {
 }
 
 .image {
-    position: relative;
     height: 545px;
+    position: center;
 }

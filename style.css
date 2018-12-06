@@ -6,6 +6,9 @@
 #top {
     background-color: sandybrown;
     height: auto;
+    width: 900px;
+    padding: 20px;
+    margin: 1%;
 }
 
 #title {

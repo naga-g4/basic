@@ -45,7 +45,7 @@ div {
 
 .displayInLine {
     display: inline;
-    line-height: normal;
+    text-align: center;
 }
 
 .floatRight {

@@ -54,18 +54,17 @@ div {
 
 #menu {
     text-align: right;
-    padding-bottom: 15px;
 }
 
 
 .col {
     background-color: burlywood;
-    width: 42%;
+    width: 440px;
     padding: 20px;
     margin: 1%;
 }
 
-.colMain {
+.contentMain {
     background-color: rosybrown;
     width: 900px;
     padding: 20px;

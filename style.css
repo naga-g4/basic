@@ -68,6 +68,7 @@ div {
     background-color: burlywood;
     width: 420px;
     padding: auto;
+    align-content: center;
 }
 
 .contentMain {

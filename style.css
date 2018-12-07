@@ -81,7 +81,7 @@ div {
     height: 545px;
 }
 
-.image {
+#image {
     position: relative;
     width: 100%;
     text-align: center;

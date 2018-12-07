@@ -88,5 +88,7 @@ div {
     text-align: center;
 }
 
-
+small {
+    width: 100px
+}
 

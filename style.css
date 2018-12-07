@@ -97,3 +97,11 @@ div {
     width: 100px
 }
 
+.text {
+    position: absolute;
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+    width: 480px;
+    height: 554px;
+}

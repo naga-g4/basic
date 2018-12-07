@@ -78,7 +78,7 @@ div {
     width: 900px;
     padding: 20px;
     margin: 1%;
-    height: 545px;
+    height: auto;
 }
 
 #image {

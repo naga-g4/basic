@@ -63,6 +63,10 @@ div {
     width: auto;
 }
 
+#image {
+    position: relative;
+    text-align: center;
+}
 
 .col {
     background-color: burlywood;

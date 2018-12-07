@@ -5,8 +5,7 @@
 
 #top {
     background-color: sandybrown;
-    height: 135px;
-    line-height: 135px;
+    height: auto;
     width: 900px;
     padding: 20px;
     margin: 1%;

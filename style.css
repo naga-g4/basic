@@ -103,3 +103,10 @@ div {
     width: 960px;
     height: 600px;
 }
+
+#circle {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%
+}

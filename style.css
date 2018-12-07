@@ -64,10 +64,7 @@ div {
     width: auto;
 }
 
-#image {
-    position: relative;
-    text-align: center;
-}
+
 
 .col {
     background-color: burlywood;
@@ -87,6 +84,7 @@ div {
 .image {
     position: relative;
     width: 100%;
+    text-align: center;
 }
 
 .colHeading {

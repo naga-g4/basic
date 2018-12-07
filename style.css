@@ -65,6 +65,7 @@ div {
 
 #image {
     position: relative;
+    text-align: center;
 }
 
 .col {
